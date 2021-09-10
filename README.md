@@ -10,3 +10,4 @@ I learned:
     + how the boilerplate works
     + how to structure a website in it's simplest form
     + that there is different ways to eat good and NOT have a seizure or a crash or end up a typical pre-diabetic office worker
+    + it can be difficult to actually divide the site into sections. I am not sure how to divide the pizza recipe
